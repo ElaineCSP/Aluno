@@ -1,2 +1,2 @@
 # Aluno
-Java SrpingBoot JPA/Hibernate, H2 e API Rest
+Java SpringBoot JPA/Hibernate, H2 e API Rest
